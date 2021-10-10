@@ -6,7 +6,13 @@ This repository contains an overview of the Scikit-Learn Python Library package 
 
 ### Quick Steps
 
-You can view the notebook at the following URL: 
+You can view the Scikit-Learn notebook in static form by selecting the NBVIEWER image[1] below: 
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/juliandunne1234/machineLearning_assesment_g00267940/blob/main/scikit-learn.ipynb) 
+
+You can view the Scikit-Learn notebook in dynamic form by selecting the Binder[2] image below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliandunne1234/machineLearning_assesment_g00267940/HEAD?labpath=scikit-learn.ipynb)
 
 ### How to run the notebook at the following 
 
@@ -22,10 +28,25 @@ This repository contains an overview of the Scipy-Stats Python Library package i
 
 ### Quick Steps
 
-You can view the notebook at the following URL: 
+You can view the Scipy-Stats notebook in static form by selecting the NBVIEWER image[1] below: 
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/juliandunne1234/machineLearning_assesment_g00267940/blob/main/scipy-stats.ipynb)
+
+You can view the Scipy-Stats notebook in dynamic form by selecting the Binder[2] image below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliandunne1234/machineLearning_assesment_g00267940/HEAD?labpath=scipy-stats.ipynb)
 
 ### How to run the notebook at the following 
 
 1. Download [Anaconda]().
 2. Download [cmder] if on Windows.
 3. Run `jupyter lab`.
+
+ 
+***
+
+# REFERENCES:
+[1] URL to create the nbviewer image can be found on https://github.com/jupyter/nbviewer/issues/714
+
+[2] URL to create the binder image can be found on https://mybinder.org/
+***
