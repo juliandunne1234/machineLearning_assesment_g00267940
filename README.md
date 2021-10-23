@@ -21,6 +21,12 @@ You can view the Scikit-Learn notebook in dynamic form by selecting the Binder[2
 3. Run `jupyter lab`.
 
 ***
+### Classification: Linear Regression
+This section contains analysis of the Wine Quality dataset. The dataset is looked at initially to find correlations between each of the variables and how they impact the quality of the wine.<br>
+The dataset is then pre-processed, reducing the amount of variables in the dataset to improve the accuracy of the algorithm.<br>
+Finally the algorithm is trained to identify and categorise objects using the training data.
+
+***
 
 ## Part II: Overview of Scipy-Stats Python Library
 
