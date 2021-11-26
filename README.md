@@ -28,6 +28,19 @@ Finally the algorithm is trained to identify and categorise objects using the tr
 
 ***
 
+### Regression: Polynomial Regression
+This section contains analysis of the Boston Housing dataset. The dataset is looked at initially to find a correlations between each of the variables in the dataset.<br>
+Two variables were then chosen ('noc', 'dis').<br>
+Finally the model is trained to identify patterns within the training dataset using Polynomial Regression.
+
+***
+
+### Classification: Random Forrest Classifier
+This section applies the Random Forest Classifier machine learning algorithm to the sklearn Digits Dataset.<br>
+The digits dataset consists of 8x8 pixel images of digits that the algorithm tries to predict. As part of this analysis the images incorrectly predicted by the algorithm are shown along with the actual and predicted values.
+
+***
+
 ## Part II: Overview of Scipy-Stats Python Library
 
 This repository contains an overview of the Scipy-Stats Python Library package in a Jupyter notebook.
