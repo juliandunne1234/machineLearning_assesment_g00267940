@@ -14,7 +14,7 @@ You can view the Scikit-Learn notebook in dynamic form by selecting the Binder[2
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliandunne1234/machineLearning_assesment_g00267940/HEAD?labpath=scikit-learn.ipynb)
 
-### How to run the notebook at the following 
+### How to run the scikit-learn notebook: 
 
 1. Download [Anaconda]().
 2. Download [cmder] if on Windows.
@@ -55,13 +55,16 @@ You can view the Scipy-Stats notebook in dynamic form by selecting the Binder[2]
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliandunne1234/machineLearning_assesment_g00267940/HEAD?labpath=scipy-stats.ipynb)
 
-### How to run the notebook at the following 
+### How to run the SciPy STATS notebook:
 
 1. Download [Anaconda]().
 2. Download [cmder] if on Windows.
 3. Run `jupyter lab`.
 
- 
+***
+### One-Way ANOVA:
+This section contains a dataset of participants that went on one of three different diets. The dataset is modified so that it can be used when performing a One-way ANOVA test.<br>
+The purpose of the ANOVA test is to demonstrate statistical significance and show whether the Hypothesis that there is no difference in the mean amount of weight loss when comparing the three different diets should be accepted or rejected.
 ***
 
 # REFERENCES:
